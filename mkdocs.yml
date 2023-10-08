@@ -2,7 +2,8 @@ site_name: Christian Transhumanist Association
 
 theme:
     name: 'material'
-    logo: material/plus-circle
+    icon:
+      logo: material/plus-circle
     palette:
 
     # Light mode
