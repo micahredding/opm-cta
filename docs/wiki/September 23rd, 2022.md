@@ -1,0 +1,12 @@
+- [[Christian Transhumanist Mission]]
+    - [[Theological Mission]]
+        - [[Creation Mandate]]: We are made to be compassionate creators, in the image of Christ and of God
+            - We are called towards the **Renewal of the World**
+                - (material renewal cannot escape science and technology)
+            - We are called to **Participation in Christ, Participation with God**
+                - (involves our work)
+            - We are called to creative transformation of materiality, eg **Science and Technology**
+                - [[Image of God]]
+                - [[Co-Creators]]
+                - [[We will be transformed to be like Christ]]
+                - We are called to a transformative relationship with material creation

@@ -1,0 +1,50 @@
+- Assessing audiences and impact
+    - Audiences
+        - Non-Christian
+            - Transhumanist or Transhumanist-adjacent
+                - Problem: 
+                    - Christianity is irrelevant
+                    - Christian theology is destructive or incoherent
+                    - Epistemology is against Christianity
+                - Solution
+                    - [[Relevance of Christianity to a Transhumanist Age]]
+                    - [[Christian Transhumanist Theology]]
+                    - [[Christian Transhumanist Epistemology]]
+        - Christian
+            - Faith-renewing
+                - Problem:
+                    - Christianity is irrelevant
+                    - Christian theology is destructive or incoherent
+                    - Epistemology is against Christianity
+                - Solution:
+                    - [[Relevance of Christianity to a Transhumanist Age]]
+                    - [[Christian Transhumanist Theology]]
+                    - [[Christian Transhumanist Epistemology]]
+            - Calling
+                - Problem:
+                    - I need to know where to devote my talents, time, energy, resources
+                - Solution
+                    - Learn how to change my lifestyle
+                    - Learn how to support others
+                    - Learn how to spread the message
+                    - Learn how to advance the cause
+                        - [[Technological Mission]]
+    - Pathways
+        - Non-Christian to Christian
+            - We help non-Christians come to faith
+        - Christian to faith-renewed Christian
+            - We help renew the faith of Christians
+        - Christian to Christian with a calling
+            - We help Christians find a calling
+    - Resources
+        - [[Relevance of Christianity to a Transhumanist Age]]
+        - [[Christian Transhumanist Theology]]
+        - [[Christian Transhumanist Epistemology]]
+            - why have faith?
+                - [[Simulation Argument]]
+                - [[Critical Rationalism]]
+                - [[Pragmatism]]
+        - [[Technological Mission]]
+    - why have faith?
+    - how does faith set us up for calling?
+    - what is my calling?

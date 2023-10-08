@@ -1,0 +1,26 @@
+- [[CTA Communications Styleguide]]
+- [[CTA Transform Course]]
+    - First Week: Convergence of Christianity and Transhumanism
+        - Both about the future
+    - Second Week: [[Theological Mission]]
+        - [[Transhumanism is about the Image of God]]
+            - [[Creation Mandate]]
+            - [[Participation in Christ]] / [[Imitation of Christ]]
+            - [[The Renewal of All Things]]
+    - Third Week: [[Faith-Renewing Mission]]
+        - [[Christian Transhumanist Epistemology]]
+            - Where we stand—the epistemic gap
+            - Where we must go—the ethics of epistemology and action
+                - Humility
+                - Love
+                - Hope
+                - Reconciliation
+            - What we hope for—the convergence of science and faith
+    - Fourth Week: [[Technological Mission]]
+        - [[Super-Longevity]]
+        - [[Super-Embodiment]]
+            - agency, connection, relationality
+            - healing, feeding, well-being, abundance
+        - [[Super-Intelligence]]
+        - [[Super-Abundance]]
+        - [[Super-Ecology]]

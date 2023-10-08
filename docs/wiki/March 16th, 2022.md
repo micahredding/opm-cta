@@ -1,0 +1,24 @@
+- [[Christian Transhumanist Mission]]
+    - Prose Statement
+        - 1. [[Theological Mission]]. In a world where Christians often see science and technology as enemies of faith---**We believe that science and technology are part of the mission of Christ and of God**. __We have a mission to share this understanding of the Christian story.__
+        - 2. [[Faith-Renewing Mission]]. In a world of rising skepticism and disenchantment---**We believe that engaging the future can help faith come alive**. __We have a mission to show how the future can renew our faith.__
+        - 3. [[Technological Mission]]. In a world of increasingly difficult ethical questions and challenges---**We believe that Christ offers an ethical vision for scientific and technological progress**. __We have a mission to articulate, advocate, and enact this ethical vision.__
+    - Problem-Solution Statement
+        - 1. [[Theological Mission]]
+            - Problem: Christians often see science and technology as enemies of faith
+            - Solution: **Our faith tells us science and technology are part of the mission of Christ and of God**.
+            - Mission: __Share this understanding of the Christian story.__
+        - 2. [[Faith-Renewing Mission]]
+            - Problem: Rising skepticism and disenchantment
+            - Solution: **Engaging the future can help faith come alive**. 
+            - Mission: __Show how the future can renew our faith.__
+                - Technological Immortality
+                - Simulation Argument
+                - Great Filter & Fermi Paradox
+                - Teilhard de Chardin, Noosphere, Omega Point
+                - Francis Bacon
+                - Fedorov
+        - 3. [[Technological Mission]]
+            - Problem: Increasingly difficult ethical questions and challenges
+            - Solution: **Christ offers an ethical vision for scientific and technological progress**. 
+            - Mission: __Articulate, advocate, and enact this ethical vision.__

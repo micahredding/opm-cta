@@ -1,0 +1,3 @@
+- from [[Micah Redding]]
+    - https://www.facebook.com/groups/ChristianTranshumanistAssociation/posts/2378609048980007/
+- 

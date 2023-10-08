@@ -1,0 +1,1 @@
+- current name of [[World Transhumanist Association]]

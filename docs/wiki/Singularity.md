@@ -1,0 +1,2 @@
+- more properly, The Technological Singularity
+- Vernor Venge

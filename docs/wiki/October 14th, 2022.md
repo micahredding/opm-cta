@@ -1,0 +1,46 @@
+- [[CTA Theory of Change]]
+    - Ultimate Objective
+        - **Articulate the future of humanity**
+        - __(and move people towards it)__
+    - [[Christian Transhumanist Mission]]
+        - [[Theological Mission]] -- advance an optimistic, open, empowering theology
+        - [[Faith-Renewing Mission]] -- renew faith for Christians and non-Christians
+        - [[Technological Mission]] -- advance an ethical technological roadmap
+    - Intermediate Objectives
+        - Non-Christians transformed
+            - Non-Christians eager to collaborate with Christians
+            - Non-Christians gain more appreciation for Christianity
+            - Non-Christians exploring and interested in the Christian faith
+            - Non-Christians as interim or partial converts
+            - Non-Christians converted
+        - Christians with faith renewed
+            - Christians feel an optimistic, open, and active approach to the future
+            - Christians feel like Christianity is coherent, meaningful, and integrates with and empowers a life of meaningful contribution
+            - Christians feel a renewed commitment to Christianity
+            - Christians feel like Christian transhumanism offers meaningful benefits to their life and faith
+        - Christians as high-impact contributors to the Transhumanist Movement
+            - Christians advocating for transhumanism
+            - Christians donating to transhumanist projects
+            - Christians contributing important transhumanist ideas 
+            - Christians working on transhumanist projects
+    - Intermediate Resources
+        - A compelling theology
+            - see [[Theological Mission]]
+        - A compelling reason to value faith
+            - see [[Faith-Renewing Mission]] 
+            - **[[Relevance of Christianity to a Transhumanist Age]]**
+                - how Christian ethics is relevant to transhumanism
+                - how Christian worship is relevant to transhumanism
+                - how God is relevant to transhumanism
+            - [[Christian Transhumanist Epistemology]]
+        - A guide to discerning your contribution and calling
+            - see [[Technological Mission]]
+    - Key External-Facing Activities
+        - Interviews given (press, podcast, media)
+        - External talks given
+        - Podcast
+        - Youtube
+        - Publications contributed to
+        - Conference
+        - Online discussion
+    - 

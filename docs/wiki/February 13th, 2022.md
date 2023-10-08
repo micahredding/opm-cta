@@ -1,0 +1,90 @@
+- [[Christian Transhumanist Mission]] 0.1
+    - [[Theological Mission]]
+        - **A theology that says science and technology are part of the mission of God**
+        - __A theology of human transformation, rooted in our identity and eschatology, expressing itself in science and technology__
+        - We were created to be creators. We are being transformed to become like the creative and glorified Christ. We participate in that transformation now. Science and technology are part of that creativity and transformation. Scripture and Christian tradition evoke this vision.
+            - The Christian story is
+                - Humans were made in the image of God, intended to grow into the likeness of God
+                    - Part of that image and likeness are science and technology
+                        - as seen in the Garden of Eden
+                        - as seen in the Ark
+                        - as seen in the Tabernacle and the Temple
+                - Christ embodies the likeness, and empowers us to grow into that likeness
+                    - Part of Christ's ministry exemplifies how to approach science and technology
+                        - a "tekton"
+                        - applied creativity
+                        - beating swords into plowshares
+                    - Part of the early church exemplifies how to approach science and technology
+                        - decentralized governance
+                        - epistemological humility
+                            - test the spirits
+                            - let your yes be yes
+                - In the end, we will be fully transformed into the likeness of Christ and of God
+                    - Part of that transformation looks like science and technology
+                        - as seen in the New Jerusalem
+                            - bringing all the glory of the nations into it
+            - Takeaways
+                - We were created to be creators
+                    - The image and likeness of God include applied creativity, or co-creation
+                - We will be transformed to be like the creative (and glorified, ascended, mysterious) Christ
+                    - The eschaton is transformation into the likeness of Christ
+                    - but "we do not know what we shall be"
+                    - aka New Creation
+                        - participatory creation between humanity and God
+                - We participate in that transformation now
+                    - relationships
+                    - human governance models
+                        - Paul's churches
+                    - epistemology
+                        - humility
+                        - love
+                        - human equality
+                        - direct authority of Christ and indwelling of Spirit
+                            - charismatic gifts as expressions of confidence in this role
+                        - applied epistemology
+                            - "yes be yes"
+                            - "test the spirits"
+                            - "if any has something..."
+                            - "do not prepare"
+                            - "the holy spirit intercedes with groans which words cannot express"
+                    - applied creativity, or co-creation
+                    - beating swords into plowshares
+            - What we need
+                - A way of reading the Bible that illustrates our nature as co-creators, leading into a transformed eschatological future—and the role of science and technology in these
+                - An ethic, derived from Jesus and the early church, that shows us how to pursue co-creation of science and technology
+    - A Faith-Revitalizing Agenda [[Faith-Renewing Mission]]
+        - **A vision of how science and technology can renew our faith**
+        - __A vision of how science and technology unleash human transformation, drawing us back into the questions, challenges, narrative, and ultimately, promises of faith__
+        - Science and technology provoke us to consider...
+            - Simulations and creations
+            - Great Filters and apocalypses
+            - Space exploration and kingdoms of heaven
+            - Noospheres and spiritual union
+            - Life extension, cryonics, uploading and immortality, resurrection, eternal life
+            - AI, superintelligence and transcendent beings and powers
+    - [[Technological Mission]]
+        - **Advocacy for the ethical, hopeful, vigorous development of particular technologies**
+        - __A vision of how science and technology can unleash unprecedented flourishing for humanity and life as a whole; and an advocacy for ethical pursuit of those possibilities, and mitigation of corresponding risks__
+        - Human life stands to be radically changed by science and technology...we envision the possibility...
+            - Human life stands to be radically changed by science and technology.
+            - These changes may either be for good or ill.
+            - We envision the possibility of reducing
+                - illness, suffering, death
+                - poverty, oppression, injustice
+            - We envision the possibility of extending
+                - life, health, vigor, vitality
+                - exploration, discovery, creation
+                - relationship, connection
+                - creativity, knowledge, cognition
+                - character, discipline, virtue
+                - fulfillment, actualization, joy
+            - We envision the possibility of uplifting
+                - the ecosystem and the biosphere
+                - the poor and marginalized
+                - communities and individuals
+            - We advocate for the ethical development of technologies which may fulfill these possibilities, for the ethical application of existing and emerging technologies, for the mitigation of technological risks, and for sustained effort to overcome current technologically-driven challenges
+            - We embrace scenarios that may disrupt existing ways of life, and yet unlock greater levels of flourishing
+            - We seek to maximize relationships, and relational values such as trust, cooperation, compassion
+            - We seek to maximize agency, through approaches such as personal rights and autonomy, decentralization of power, and the elevation of the disadvantaged
+            - We seek to maximize creative capacity, through widespread access to information, generative tools, and cognitive technologies
+            - We seek to maximize mental and physical flourishing, through access to treatments, therapies, nutrition, and prosthetics

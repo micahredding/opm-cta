@@ -1,0 +1,19 @@
+- status: stable public draft
+- initiator: [[Christian Transhumanist Association]]
+- [source](https://www.christiantranshumanism.org/blog/cta-statement-on-radical-life-extension)
+- ## Statement of Understanding
+    - We understand that the best current science suggests aging is a process of accumulating damage, leading to disease.
+    - We understand that bodies are always engaged in a process of healing this damage to the best of their abilities.
+    - We understand the medical work of healing to be a deeply vital aspect of the Christian mission, as enjoined by Christ. We understand medical science to be a necessary aspect of this work.
+    - We understand Radical Life Extension to refer to the work of using medical science to heal damage at a deep level, before it develops into disease.
+    - We understand that the expected result of that healing would be the restoration of health, the undoing of the effects of aging, and the indefinite extension of healthy, productive, relational life.
+    - We understand that Christians of all traditions embrace a biblical story which suggests that human life should extend to 120 years or longer. We understand the stories of Genesis, which describe humans living nearly a millennium, to affirm the value of physical life. We understand passages such as Isaiah 65:20, which look forward to multi-centenarian lifespans, to affirm the value of physical life.
+- ## Statement of Values
+    - We believe in the deep value of productive, relational, flourishing life, as embodied in the words and actions of Jesus.
+    - We believe in the deep value of physical healing, as embodied in words of Jesus, the instructions given to the earliest disciples, and the historic understanding of the Christian mission.
+    - We believe in the deep value of individual agency in the outworking of medical care and treatment.
+    - We believe in the deep value of providing care and healing to all people.
+- ## Statement on Radical Life Extension
+    - We believe that pursuing the technologies of Radical Life Extension is compatible with the highest values of the Christian mission.
+    - We believe that the technologies of Radical Life Extension should be made available to all people, to reduce the impact of diseases related to aging.
+    - We believe that the technologies of Radical Life Extension should be used to give individuals greater agency over their own life and care—not to remove that agency.

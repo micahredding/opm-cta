@@ -1,0 +1,20 @@
+- 1. Add your name to [[Members]]
+    - And feel free to add info about yourself
+    - Add links to things you are interested in, and they will become [[New Pages]], just like in a wiki
+    - [[~ The Scratchpad]] <— experiment!
+- 2. Check out some of the shortcut pages to the left
+    - Add to: [[Resources for Christian Transhumanists]]
+    - [[A Christian History of Transhumanism]]
+        - [[Principles of Extropy]]
+    - [[Christian Transhumanist Association]]
+        - [[Christian Transhumanist Affirmation]]
+        - [[Statement on Radical Life Extension]]
+        - [[Brain Augmentation Bill of Rights]]
+- 3. Work on some of the Proposed wiki articles:
+    - https://docs.google.com/spreadsheets/d/1ywcS_PMz2BVbvYdMso6uJl6wyCVf-CXS-dtclmXLHV8/edit?usp=sharing
+- **Rules of thumb: **
+    - Play nice
+    - Don't clobber anything
+    - Add, don't take away
+    - Create
+    - 

@@ -1,0 +1,3 @@
+- A [[Christian]] form of [[Transhumanism]], formally organized as the [[Christian Transhumanist Association]]
+- [[Concepts in Christian Transhumanism]]
+- [[Resources for Christian Transhumanists]]

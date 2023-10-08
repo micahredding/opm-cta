@@ -1,0 +1,33 @@
+- [[Christian Transhumanist Mission]]
+    - [[Theological Mission]]
+        - ### 1.1 We are made to be compassionate creators—in the image of Christ and of God.
+            - **God is introduced in Genesis as a compassionate creator, whose way of ruling is precisely through acts of creation.** Genesis depicts God as a compassionate creator, who creates and cultivates life, calls forth its potential, and names it, organizes it, and blesses it.
+            - **God creates humanity to imitate that image, likeness, and rule. This points at our capacity for creation.** Genesis tells us that we were made to be like God. And it spells that out in a number of ways—we are to become God's "image and likeness", to create and cultivate life, and to rule over all creation. The way we are to do these things is in imitation of God's own character and process. **To that end, Genesis depicts God leading humanity in imitation of the creation week: naming and categorizing, organizing and blessing.** This connection is implied in the framing of a "creation week" itself, which connects the pattern of God's creative work and our creative work. We see this in the rationale which Exodus offers for the Sabbath. Finally, in the story of Noah's Ark, God leads humanity in the construction of a giant technological project to save the world. And when Noah and his family emerge from the Ark, God reiterates the Genesis 1 blessing, as if to proclaim that this is what humanity is intended to look like.
+            - **In Christ, we see that the only sustainable form of image, likeness, or rule is through compassion.** Christ embodies this, and so is able to be the perfect image and likeness for us, and to call us into the work of compassionate creation that forms the future of the cosmos. In Christ, we see a humanity truly like God, God's perfect image and likeness. And in Christ, we see that the rule which God has called humanity to, can only be sustainably exercised through creativity and compassion.
+        - ### 1.2 We are called to participate in the works of Christ and of God
+            - **We were created for good works—works of creation and compassion, works of healing, renewing, blessing.** We are saved by grace in order that we may be empowered to do these good works.
+            - **We are included in Christ through the Spirit, so that we may participate in all of the works of God.** Not as a rival to God's works, but as an invited participant in them. This is the glory of God.
+            - **We are called to works even beyond the bounds of human comprehension.** Christ tells us we will do his works, and even "greater works than these". Paul tells us we will judge celestial beings. John tells us we will be invited to reign alongside Christ, from the throne of God.
+        - ### 1.3 Our eschatology is the renewal of the world
+            - Jesus teaches us to pray, "Your kingdom come...on earth as it is in heaven" (Matthew 6:10)
+            - Jesus teaches us to look forward to "the renewal of all things" (Matthew 19:28)
+            - Paul tells us in Romans 8:19-21 that all creation waits in eager expectation for the children of God to be revealed, "...in hope that the creation itself will be liberated from its bondage to decay and brought into the freedom and glory of the children of God."
+    - [[Faith-Renewing Mission]]
+    - [[Technological Mission]]
+        - [[Life extension]]
+            - [[Statement on Radical Life Extension]]
+        - [[Cognitive enhancement]]
+            - [[Artificial Intelligence]]
+            - [[Brain-Computer Interfaces]]
+                - [[Brain Augmentation Bill of Rights]]
+            - [[Metaverse]]
+            - [[Cryptocurrency]] and [[web3]]
+        - [[Biosphere enhancement]]
+            - Material
+                - [[Carbon filtration]]
+                - [[Nanotechnology]]
+            - Biological
+                - [[Gene editing]]
+            - Cosmic
+                - [[Space Exploration]]
+        - 

@@ -1,0 +1,27 @@
+- https://hpluspedia.org/wiki/Transhumanist_Declaration#Latest_2009_version_.28wikified.29
+- Concerns & Technologies mentioned
+    - research interests
+        - aging, cognition, suffering, space exploration
+        - unrealized human potential
+        - misuse of technologies
+        - existential risks
+    - ethics
+        - rational culture
+        - rational politics
+        - autonomy, individual rights, all humans globally, all humans future generations
+        - all sentience, including animals and AI
+    - technologies
+        - memory, concentration, mental energy
+        - life extension
+        - reproductive choice
+        - cryonics
+        - other modifications and enhancements
+- Text:
+    - 1. Humanity stands to be profoundly affected by science and technology in the future. We envision the possibility of broadening human potential by overcoming [aging](https://hpluspedia.org/wiki/Senescence), cognitive shortcomings, [involuntary suffering](https://hpluspedia.org/wiki/Abolitionism), and our [confinement to planet Earth](https://hpluspedia.org/wiki/Space_exploration).
+    - 2. We believe that humanity’s potential is still mostly unrealized. There are possible scenarios that lead to wonderful and exceedingly worthwhile enhanced human conditions.
+    - 3. We recognize that humanity faces [serious risks](https://hpluspedia.org/wiki/Existential_risk), especially from the [misuse of new technologies](https://hpluspedia.org/wiki/Dystopian_transhumanism). There are possible realistic scenarios that lead to the loss of most, or even all, of what we hold valuable. Some of these scenarios are drastic, others are subtle. Although all progress is change, not all change is progress.
+    - 4. Research effort needs to be invested into understanding these prospects. We need to carefully deliberate how best to reduce risks and expedite beneficial applications. We also need forums where people can constructively discuss what should be done, and a social order where responsible decisions can be implemented.
+    - 5. Reduction of [existential risks](https://hpluspedia.org/wiki/Existential_risk), and development of means for the preservation of life and health, the [alleviation of grave suffering](https://hpluspedia.org/wiki/Abolitionism), and the improvement of human foresight and wisdom should be pursued as urgent priorities, and heavily funded.
+    - 6. Policy making ought to be guided by responsible and inclusive moral vision, taking seriously both opportunities and risks, [respecting autonomy and individual rights](https://hpluspedia.org/wiki/Liberal_transhumanism), and showing solidarity with and concern for the interests and dignity of all people around the globe. We must also consider our moral responsibilities towards generations that will exist in the future.
+    - 7. We advocate the well-being of [all sentience](https://hpluspedia.org/wiki/Sentient_rights), including humans, non-human animals, and any future [artificial intellects](https://hpluspedia.org/wiki/AI), modified life forms, or other intelligences to which technological and scientific advance may give rise.
+    - 8. We favour allowing individuals wide personal choice over how they enable their lives. This includes use of techniques that may be developed to assist memory, concentration, and mental energy; [life extension](https://hpluspedia.org/wiki/Life_extension) therapies; [reproductive choice technologies](https://hpluspedia.org/wiki/Reproductive_rights); [cryonics](https://hpluspedia.org/wiki/Cryonics) procedures; and many other possible human modification and enhancement technologies.

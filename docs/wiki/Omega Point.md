@@ -1,0 +1,3 @@
+- a term coined by [[Pierre Teilhard de Chardin]] for a future point of convergent unity, where life attains complete control of available matter & energy, and becomes one
+- later adapted by [[Frank Tipler]] into the [[Omega Point Theory]], which is a specific cosmological theory about the future of the universe
+- resembles some descriptions of the [[Singularity]]

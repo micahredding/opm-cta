@@ -1,0 +1,6 @@
+- Theological Influences:
+    - [[Pierre Teilhard de Chardin]]
+    - [[Paul Tillich]]
+    - [[Wolfhart Pannenberg]]
+- Scientific Influences:
+    - association with [[David Deutsch]]

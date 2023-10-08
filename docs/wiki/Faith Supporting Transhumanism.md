@@ -1,0 +1,4 @@
+- Transhumanism as a Christian calling
+- [[Participatory Theology]]
+- [[Physical Eschatology]]
+- 

@@ -1,0 +1,4 @@
+- Humanity is called to participate in the work of God
+- Salvation is the opportunity to participate in the work of God
+    - see [[Noah's Ark]]
+- [[Participatory Resurrection]]

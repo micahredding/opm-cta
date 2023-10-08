@@ -1,0 +1,4 @@
+- named for [[Francis Bacon]]
+- inspired by [[Francis Bacon]]'s empiricism
+- First [[Stone-Campbell Movement]] college
+- precursor to the University of Kentucky

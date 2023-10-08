@@ -1,0 +1,13 @@
+- An eschatology in which Christ returns to establish the Kingdom of Heaven __after__ humans have finished most of the work of renewing the world. This has historically been associated with optimism about humanity's future, as it predicts that human progress will continue in an upward trajectory, until reaching a disruptive point.
+- Often combined with [[Preterism]], which interprets many of the events of [[Book of Revelation]] as having already happened.
+- Some might compare this to a belief in technological progress leading to the [[Singularity]].
+- [[Francis Bacon]] formulated a Postmillennial Eschatology
+- Evangelicalism began as Postmillennialism
+    - Jonathan Edwards, John Wesley, George Whitefield, Charles Finney
+    - John Wesley (1703–1791) recovers [[Physical Eschatology]]
+    - Seventh-Day Adventism (1863) recovers [[Physical Eschatology]]. Act it out in health, education, personal life.
+    - Postmillennialism launches modern missionary movement
+- [[Stone-Campbell Movement]]
+    - [[Alexander Campbell]]'s [[Millennial Harbinger]]
+    - David Lipscomb
+- [[Patristic Postmillennialism]]

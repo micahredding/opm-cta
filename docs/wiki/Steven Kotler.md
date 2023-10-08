@@ -1,0 +1,2 @@
+- [[Flow State]] researcher and author
+- author of [[Rise of Superman]], [[]], [[The Future is Faster than you Think]]

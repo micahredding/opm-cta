@@ -1,0 +1,1 @@
+- For the creation waits in eager expectation for the children of God to be revealed. ...in hope that the creation itself will be liberated from its bondage to decay and brought into the freedom and glory of the children of God. (Romans 8:19-21)

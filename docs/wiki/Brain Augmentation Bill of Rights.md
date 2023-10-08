@@ -1,0 +1,25 @@
+- status: draft
+- history:
+    - initial statements: [[Micah Redding]]
+    - initial idea: Daniel Redding, Jared Kohler
+    - updates from:
+- __directions: Add potential statements to the bottom of the list. Comment underneath each statement with support, constructive critique, or alternate versions.__
+- **Proposed statements**
+    - Legal Agency
+        - A person has a right to augment their brain in ways that they deem healthy and desirable.
+        - Brain augmentation technology must be legally classified as an aspect of the subject’s body.
+        - As such, hardware, software, and on-device data, may not be subject to unreasonable search and seizure.
+    - Technological Agency
+        - The user must be able to turn off or disconnect the device, at the level of both software and hardware.
+        - The technology must only initiate outgoing connection at user request.
+        - Neither the hardware nor the software needed to operate basic functions may be capable of being remotely disabled.
+        - The technology must reveal any ongoing connections to the outside world. The technology must maintain a user-accessible record of any such interactions.
+    - Biological Agency
+        - The right of removal
+        - The right of disconnection
+        - The right of upgrade
+        - The right to be informed about the technological life-cycle
+        - The right to be informed about the biological ramifications
+- **Additional proposed statements?**
+    - Transparency of brain augmentation service providers capabilities
+    - 

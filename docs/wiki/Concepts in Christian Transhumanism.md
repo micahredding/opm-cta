@@ -1,0 +1,15 @@
+- [[Christian Transhumanism]] allows for a number of distinctive concepts. Some of these are nearly foundational to Christian Transhumanism. Others are merely interesting streams of Christian Transhumanist thought. 
+    - [[Transhumanism Supporting Faith]]
+        - [[Simulation Argument]]
+        - [[Omega Point Theory]]
+    - [[Faith Supporting Transhumanism]]
+        - Transhumanism as a Christian calling
+        - [[Participatory Theology]]
+        - [[Physical Eschatology]]
+- Concepts
+    - [[Physical Eschatology]]
+    - [[Participatory Theology]]
+    - [[Christian Transhumanist Affirmation]]
+- Connections and Related Phenomenon
+    - [[Transcendent Humanism]]
+    - [[Postmillennialism]]

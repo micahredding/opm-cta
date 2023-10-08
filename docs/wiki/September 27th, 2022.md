@@ -1,0 +1,34 @@
+- [[Christian Transhumanist Mission]]
+    - # [[Theological Mission]]
+        - ### Acceptance criteria: 
+            - To articulate the role of science, technology, and human transformation (__and human effort__) in the story/mission of Christ and of God.
+            - To support the [[Technological Mission]], by addressing common Christian objections
+            - To support the [[Faith-Renewing Mission]], by appropriating what is good, valuable, and compelling in secular transhumanism
+        - ### Common Christian objections:
+            - **Why transformation?** Why should we expect radically different futures, rather than God bringing an abrupt end to the human experiment, or (e.g.) preventing us from ever leaving the planet, or attaining other technological capabilities?
+            - **Why science and technology?** Why should we expect to see science and technology play a significant role in the mission of God?
+            - **Why human effort?** Why should we expect human efforts to succeed? Why should we expect humans might bring about the will of God in significant ways?
+        - ### Aspects of Transhumanism to appropriate:
+            - Visions and roadmaps to radically thriving futures
+            - An appreciation for the wonders science and technology are able to accomplish
+            - A call to dynamic optimism: positive, proactive action now
+        - ### Theological Mission in Five Points
+            - We are made to become the image and likeness of God
+                - [[Creation Mandate]] (science and technology)
+                - Ethics of Christ (relationality, humility, compassion)
+            - Participation with Christ
+            - Renewal of Creation 
+                - [[Renewal Eschatology]]
+                    - [[Swords into Plowshares]]
+        - ### Theological Mission in Five Points (aligned with the Affirmation)
+            - 1. We are made to imitate and become like God (#2, #5)
+            - 2. This is expressed in the [[Creation Mandate]], which call us to scientific and technological creativity (#3, #5)
+            - 3. This is expressed in the ethics of Christ, which call us to relationality, humility, and compassion (#4, #5)
+            - 4. We are called to participate in the works of Christ (#1)
+            - 5. We are called to imagine, proclaim, and work towards the renewal of all things (#1)
+        - ### Theological Mission in Three Points
+            - We are made to be compassionate creators—in the image of Christ and of God
+            - We are called to participate in the work of Christ and of God
+            - We are called to imagine and proclaim and work toward the renewal of all things
+        - ### Theological Mission in One Point
+            - We are made to be compassionate creators—in the image of Christ and of God

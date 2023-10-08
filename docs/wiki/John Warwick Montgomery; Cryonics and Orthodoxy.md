@@ -1,0 +1,2 @@
+- Christianity Today
+- 1968

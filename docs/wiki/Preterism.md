@@ -1,0 +1,6 @@
+- An [[Eschatology]] in which many or all of the events in the [[Book of Revelation]] have already happened
+- for example:
+    - The Beast may have been Nero Caesar
+    - The Fall of Jerusalem in AD 70 may have been a significant apocalyptic moment
+- influences
+    - [[NT Wright]]

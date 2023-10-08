@@ -1,0 +1,22 @@
+- historic statements of principles of [[Extropianism]]
+- [v2.5](https://www.aleph.se/Trans/Cultural/Philosophy/princip.html)
+    - BEST DO IT SO
+        - Boundless Expansion
+            - Seeking more intelligence, wisdom, and effectiveness, an unlimited lifespan, and the removal of political, cultural, biological, and psychological limits to self-actualization and self-realization. Perpetually overcoming constraints on our progress and possibilities. Expanding into the universe and advancing without end.
+        - Self-Transformation
+            - Affirming continual moral, intellectual, and physical self-improvement, through reason and critical thinking, personal responsibility, and experimentation. Seeking biological and neurological augmentation.
+        - Dynamic Optimism
+            - Fueling dynamic action with positive expectations. Adopting a rational, action-based optimism, shunning both blind faith and stagnant pessimism.
+            - http://fennetic.net/irc/extropy/ext8.pdf
+        - Intelligent Technology
+            - Applying science and technology creatively to transcend "natural" limits imposed by our biological heritage, culture, and environment.
+        - Spontaneous Order
+            - Supporting decentralized, voluntaristic social coordination processes. Fostering tolerance, diversity, long-term thinking, personal responsibility, and individual liberty.
+- [v3.1](https://web.archive.org/web/20131015142449/http://extropy.org/principles.htm)
+    - Perpetual Progress
+    - Self-Transformation
+    - Practical Optimism
+    - Intelligent Technology
+    - Open Society - information and democracy
+    - Self-Direction
+    - Rational Thinking

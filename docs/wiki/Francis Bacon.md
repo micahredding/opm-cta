@@ -1,0 +1,12 @@
+- (15??-1626)
+- author of:
+    - [[The Great Instauration]]
+    - [[The New Atlantis]] — one of the earliest works of science fiction
+- essay: [Francis Bacon, Christian Transhumanist](http://micahredding.com/blog/francis-bacon-christian-transhumanist)
+- [[Cooperation Theory of Technology]]
+- inspired
+    - The Royal Society
+    - Thomas Jefferson
+    - American [[Postmillennialism]]
+    - [[Stone-Campbell Movement]]
+- 

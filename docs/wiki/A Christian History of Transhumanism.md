@@ -1,0 +1,49 @@
+- Patristics & Early Church
+    - [[Justin Martyr]] & resurrection of the body
+    - [[Saint Irenaeus]] described a [[Transcendent Humanism]]
+    - [[Saint Macrina the Younger]] used science to prove resurrection of the body
+    - [[Gregory of Nyssa]] God designed human anatomy to make us the technological species
+- 1320s [[Dante's Divine Comedy]]
+    - "Words cannot tell of that transhuman change..."
+- 1620s [[Francis Bacon]]
+    - The Royal Society
+    - Thomas Jefferson
+        - > __“Bacon, Locke and Newton. I consider them as the three greatest men that have ever lived, without any exception, and as having laid the foundation of those superstructures which have been raised in the Physical and Moral sciences.” — Thomas Jefferson__
+    - American [[Postmillennialism]]
+    - [[Stone-Campbell Movement]]
+- Benjamin Franklin?
+- 1800s [[The Russian Cosmists]], religious imperative to use science to defeat death, and colonize space
+- 1930s [[Pierre Teilhard de Chardin]]
+    - Quotes on Transhumanism
+    - Quotes on [[Omega Point]]
+    - connections to Singularity
+    - connections to Internet
+    - References by Current Popes
+    - association with [[Julian Huxley]]
+- 1940s [[WD Lighthall]]
+    - "Paul's Transhumanism"
+- 1929 [[The World, the Flesh & the Devil]]
+- 1949 [[TS Elliot; The Cocktail Party (1949)]]
+- 1957 [[Julian Huxley]]
+    - "The human species can, if it wishes, transcend itself — not just sporadically, an individual here in one way, an individual there in another way, but in its entirety, as humanity. We need a name for this new belief. **Perhaps transhumanism will serve: man remaining man, but transcending himself, by realizing new possibilities of and for his human nature.** "I believe in transhumanism": once there are enough people who can truly say that, the human species will be on the threshold of a new kind of existence, as different from ours as ours is from that of Pekin man. It will at last be consciously fulfilling its real destiny." — Julian Huxley
+- 1968 [[John Warwick Montgomery; Cryonics and Orthodoxy]]
+- 1980s [[FM-2030]]
+- 1988 [[Extropianism]]
+- 1994 [[Frank Tipler]] publishes [[The Physics of Immortality (1994)]] describing the [[Omega Point Theory]]
+- 1998 [[World Transhumanist Association]]
+- 2003 [[Simulation Argument]] by [[Nick Bostrom]]
+- [[Ray Kurzweil]]
+- [[Kevin Kelly]]
+- [[David Deutsch]]
+- 2010s 
+    - History of the [[Christian Transhumanist Association]]
+- Other Influences on the modern Christian Transhumanist movement
+    - [[Transcendent Humanism]] of Irenaeus and the early Christians
+    - [[Eastern Orthodoxy]]
+    - [[Wolfhart Pannenberg]]
+    - [[GK Chesterton]]
+    - [[Dallas Willard]]
+    - [[CS Lewis]]
+    - [[NT Wright]]
+        - [[Physical Eschatology]] — "heaven on earth"
+    - [[Steven Kotler]], [[Peter Diamandis]], [[Aubrey de Grey]]

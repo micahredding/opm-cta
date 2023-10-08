@@ -1,0 +1,4 @@
+- [[David Deutsch]]
+- The human brain is a Universal Turing Machine, meaning that it can model any physical process in the universe, including the processes happening inside other brains
+- This means every human brain is categorically equivalent to every possible brain, differing only in access to processing power and storage space
+- Processing power and storage space are precisely what human beings have been augmenting since the beginning of history, starting with numbers and writing

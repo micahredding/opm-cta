@@ -1,0 +1,5 @@
+- Consider the following
+    - What will allow humanity (and life as a whole) to survive and thrive on the other side of the Anthropocene is the existence of a community that can navigate an ever-complexifying future through a process of exploration, conflict, and reconciliation.
+    - This community will be defined by a process of atonement. That is, a process of exploration and reconciliation.
+    - This community will be defined by the way it blesses / uplifts all of life.
+    - This community will be defined by the way it 

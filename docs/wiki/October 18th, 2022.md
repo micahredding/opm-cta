@@ -1,0 +1,16 @@
+- [[Faith-Renewing Mission]]
+    - What is the relevance of Christianity in a transhumanist age?
+        - **What is the relevance of Christian ethics?**
+            - Cooperation/trust/compassion as key to any thriving future
+                - Accelerating power requires accelerating community cooperation
+            - Deontological/Consequentialist/Virtue
+        - **What is the relevance of Christian worship?**
+            - personal formation, community formation
+                - __scripture, sacrament, prayer__
+        - **What is the relevance of the Christian God?**
+            - Archetypes as guides to the future
+                - Angels, Demons
+                - Heavens, Hells
+                - Kingdom of Heaven
+                - creations/simulations
+                - apocalypses/singularities

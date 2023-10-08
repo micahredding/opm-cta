@@ -1,0 +1,25 @@
+- A movement to use science and technology to transform the human condition
+- It comes in different varieties:
+    - [[Secular Transhumanism]]
+        - [[Extropianism]]
+    - [[Christian Transhumanism]]
+- Different interpretations of the word
+    - [[Transcendent Humanism]]
+    - [[Life+]] — Uplifting All Life
+    - Intelligence+ — Uplifting All Intelligence
+    - Humanity+ — Uplifting All Humanity
+    - >Human — Becoming more than human
+    - Transcending Human
+    - Transitional Human
+    - Transformative Human
+- Different ethical emphases
+    - Eradication of suffering
+    - Uplifting of humanity
+    - Self-gratification
+    - etc...
+- [[A Christian History of Transhumanism]]
+- Hallmark Indicators of [[Transhumanism]] through History
+    - Transformative Future
+    - Transcendent Human Potential
+    - Science & Technology
+- 

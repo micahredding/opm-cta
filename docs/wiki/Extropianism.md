@@ -1,0 +1,13 @@
+- a form of [[Transhumanism]], active 1980s-2000s
+- [Meet the Extropians — Wired Magazine, 1994](https://www.wired.com/1994/10/extropians/)
+- [[Principles of Extropy]]
+- People
+    - [[Max More]]
+    - [[Tom Morrow]]
+    - [[Natasha Vita-More]]
+    - [[Robin Hanson]]
+    - [[Mike Perry]]
+- Organization
+    - The Extropy Institute
+    - The Extropian Mailing List was very influential in the transhumanist movement
+        - http://fennetic.net/irc/extropy/ext8.pdf

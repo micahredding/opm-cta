@@ -1,0 +1,3 @@
+- https://www.simulation-argument.com
+- [[Nick Bostrom]]
+- 2003

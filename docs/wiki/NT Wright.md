@@ -1,0 +1,3 @@
+- strongly influential in current Christian neo-orthodoxy
+- [[Physical Eschatology]]
+- [[Preterism]]

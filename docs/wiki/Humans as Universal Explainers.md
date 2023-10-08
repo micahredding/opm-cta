@@ -1,0 +1,4 @@
+- Humans as General Intelligence, or AGI
+- Persons contain creative algorithms which create explanations for other physical processes
+- We do not yet understand how this is done
+- [[David Deutsch]]

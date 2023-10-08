@@ -1,0 +1,62 @@
+- [[CTA Communications Styleguide]]
+    - __Suggestions for optimal communication__
+    - Terminology & Talking Points
+        - [[Space Exploration]] instead of __colonization__ or __expansion__.
+        - [[Creation Mandate]] instead of __Dominion Mandate__ or __Cultural Mandate__.
+            - This mandate can be expressed as
+                - "Creating and cultivating life"
+                - "Uplifting life"
+                - "Taking responsibility for life"
+                - "participating in the work of God"
+            - This mandate can be understood as a calling to be **compassionate creators**, in the image of Christ
+            - This mandate has historically been understood as a calling to science and technology
+        - [[Superhuman]] instead of __posthuman__ for the future state of humanity
+            - "Superhumanity" instead of "posthumanity"
+        - "Image and Likeness of God" is our future and ethical calling. Here's how to talk about it. ⬇️
+            - Preferred terminology
+                - "We are to be transformed into the likeness of Christ"
+                - "We are to be transformed into the likeness of Christ and of God"
+                - "Becoming like Christ"
+                - "Becoming like God"
+            - Non-preferred terminology
+                - __Image of God__ is a term that has great acceptance within Christianity, but also tends to be ignored or glossed over. For that reason, it's often good to pair it with, or emphasize one of the other expressions.
+                - __Imago Dei__ is a term that's more relevant in academic contexts.
+                - __Theosis__ is a known and accepted term within some theological contexts (Eastern Orthodoxy, some Catholicism, educated theologians of various traditions). Outside of these contexts, it's better to use one of the other terms.
+            - "Likeness of God" is introduced in Genesis 1, as part of the [[Creation Mandate]]. 
+            - "Likeness of God" always includes both ethical and physical transformation. These should usually be mentioned together.
+                - Ethical
+                    - Jesus calls his followers to imitate God (Matthew 5:43-48).
+                    - We are called to imitate Christ.
+                - Physical
+                    - The resurrection of the dead
+                    - Glorification
+            - "Likeness of God" always has an ethical context. In Genesis 1, it reflects the loving work of the creator who blesses and takes joy in creation. In the New Testament, it has the context of imitation of Christ.
+            - "Likeness of Christ" is often a good alternative expression to emphasize. Christ shows us the ethical path to being like God. For some Christians, it may sound more intuitive to talk about imitation of Christ. At the same time, we should never separate these. Imitation of Christ __is__ imitation of God. Christ reveals the truth of what God is like, so that God __can__ be imitated.
+        - "Participating in the work of God" is an ideal term for [[Participatory Theology]]
+            - We are called to participate in the work of Christ
+            - We are called to participate in the work of God
+        - [[The Renewal of All Things]] is an ideal term for [[Renewal Eschatology]]
+            - Jesus talks about the renewal of all things (Matthew 19:28-30)
+            - Peter proclaims the restoration of all things (Acts 3:21)
+            - [[The Lord's Prayer]]: Jesus teaches us to pray “your kingdom come…on earth as it is in heaven”
+            - Romans 8:18-21 talks about all creation eagerly anticipating joining in the freedom and the glory of the children of God
+        - "Working towards" is often more appropriate and accurate than "building" or "creating", when talking about the future. However, in some cases it is better to use the stronger terms.
+        - We are not saved by works. We are saved by faith __in order__ that we may do the good works which God prepared for us to do (Ephesians 2:8-10). This distinction is important to maintain.
+    - Definitions:
+        - Transhumanism is the ethical use of science and technology to transform the human condition.
+        - Christian Transhumanism is the ethical use of science and technology to transform the human condition—where "ethical" is defined as discipleship of Christ.
+            - __alternate formulations:__
+                - Christian Transhumanism is the use of science and technology to participate in the work of God.
+                - Christian Transhumanism is the use of science and technology to participate in the work of Christ and of God.
+    - Slogans
+        - Articulating the future of humanity
+        - __The greatest future possible__ **__(something like this, maybe)__**
+        - Science and technology are part of the mission of God
+            - Science and technology are part of the mission of Christ and of God
+        - Engaging the future can help faith come alive
+        - Christ offers an ethical vision for scientific and technological progress
+    - Documents:
+        - [[Christian Transhumanist Affirmation]]
+        - [[Christian Transhumanist Mission]]
+        - [[Statement on Radical Life Extension]]
+        - [[Brain Augmentation Bill of Rights]]

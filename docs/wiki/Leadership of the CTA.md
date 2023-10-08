@@ -1,0 +1,15 @@
+- [[Christian Transhumanist Association]]
+- Board:
+    - [[Micah Redding]]
+    - [[Lorenzo Barberis Canonico]]
+    - Omar Reyes
+    - Blaire Ostler
+    - Neal Locke
+    - Mark Russell
+    - [[Jonathan Gunnell]]
+    - Mike Morrell
+    - Lincoln Cannon
+- Officers:
+    - CEO: [[Micah Redding]]
+    - CFO: Emily Redding
+    - COO: [[Lorenzo Barberis Canonico]]

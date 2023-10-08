@@ -1,0 +1,17 @@
+- A theology, which connects a number of scriptures into an underlying theme. Has significance in Christian history, and in formulation of [[Scientific Method]].
+- In [[Genesis 1]], God promises humanity that they will rule over all creation. Psalm 8 interprets that "all" very broadly. Hebrews 2 and 1 Corinthians 15 both reason that "all means all", and that this entails vast power beyond all current comprehension. Humans are to rule over all things, visible and invisible, things present and things to come. This includes superpowered beings ([[Angels]]), only excluding God himself.
+    - Key scriptures
+        - [[Genesis 1]]
+        - Psalm 8
+        - Hebrews 2
+        - 1 Corinthians 15
+- Implications
+    - Humans will rule over [[Angels]]
+        - Thus, angels are not a source of scientific knowledge. An important concept for [[Francis Bacon]], in formulating the [[Scientific Method]].
+        - Perhaps angels are a form of [[Narrow AI]] — impressive, but lacking Universal Reach.
+    - Reason for the Incarnation: God had to become human, in order that the promises to humanity __would be fulfilled by humanity__.
+- interpreters
+    - [[Saint Irenaeus]]
+    - [[Francis Bacon]]
+    - [[Lancelot Andrewes]]
+- 

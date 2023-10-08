@@ -1,0 +1,3 @@
+- Transhumanism interpreted as Uplifting All Life. A kind of "radical environmentalism".
+- expressed by [[Micah Redding]] at the 2019 TransVision Conference in London, UK.
+- "Transhumanism is managing ecosystems", from Earth, to future ecosystems throughout the Solar System, to the ecosystems of digital worlds.

@@ -1,0 +1,5 @@
+- pioneered Quantum Computing
+- endorsed the [[Omega Point Theory]] in his book [[The Fabric of Reality]]
+    - endorsed the physics
+    - argued against the religious interpretation
+- endorses a secular form of [[Transcendent Humanism]]

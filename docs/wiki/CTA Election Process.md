@@ -1,0 +1,8 @@
+- for [[CTA Board]] or appointed admins
+- Nomination Phase
+    - 
+- Discussion Phase
+- Voting Phase
+- Tabulating Votes
+- Pronouncing Winners
+- First New Board Meeting

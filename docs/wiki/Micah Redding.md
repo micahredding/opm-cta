@@ -1,0 +1,6 @@
+- A human being...for now 
+- Interests:: Summer, Afghanistan, Tulsa Oklahoma, and [this song](https://www.youtube.com/watch?v=xMnSj9uLpVU)
+- More stuff
+    - http://micahredding.com
+    - https://twitter.com/micahtredding
+- ![Micah Redding](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fchristiantranshumanism%2F3AUbuUccQj.jpg?alt=media&token=127ce44d-309d-4725-bc92-46c29775046c)

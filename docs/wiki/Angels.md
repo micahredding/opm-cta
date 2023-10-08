@@ -1,0 +1,2 @@
+- Perhaps angels are a form of [[Narrow AI]] — impressive, but lacking Universal Reach.
+- 

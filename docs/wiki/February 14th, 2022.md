@@ -1,0 +1,96 @@
+- [[Christian Transhumanist Mission]] 0.2
+    - The basic assumption: Human transformation through science and technology.
+    - [[Theological Mission]]
+        - Specs:
+            - We want to offer a theology focused on human transformation, where science and technology are an aspect of that transformation.
+            - __A theology of human transformation, rooted in our identity and eschatology, expressing itself in science and technology__
+            - We want to read scripture and Christian tradition as exemplifying this theology.
+            - We want to oppose any theology of pessimism, fatalism, or disempowerment.
+        - Draft
+            - We were created to be creators. We are being transformed to become like the creative and glorified Christ. We participate in that transformation now. Science and technology are part of that creativity and transformation. Scripture and Christian tradition evoke this vision.
+                - [[We were created to be creators]]
+                    - The image and likeness of God include applied creativity, or co-creation
+                - [[We will be transformed to be like Christ]]
+                    - The eschaton is transformation into the likeness of Christ
+                    - Christ is creative
+                    - but "we do not know what we shall be"
+                    - aka New Creation
+                        - participatory creation between humanity and God
+                - [[We participate in that transformation now]]
+                    - relationships
+                    - human governance models
+                        - Paul's churches
+                    - epistemology
+                        - humility
+                        - love
+                        - human equality
+                        - direct authority of Christ and indwelling of Spirit
+                            - charismatic gifts as expressions of confidence in this role
+                        - applied epistemology
+                            - "yes be yes"
+                            - "test the spirits"
+                            - "if any has something..."
+                            - "do not prepare"
+                            - "the holy spirit intercedes with groans which words cannot express"
+                    - applied creativity, or co-creation
+                    - beating swords into plowshares
+    - A Faith-Revitalizing Agenda [[Faith-Renewing Mission]]
+        - Specs:
+            - We want to offer a new path towards reconciling faith and science, based around the possibilities of human transformation.
+            - We want to show that these possibilities bring spiritual and religious ideas back into profound significance.
+            - We want to show that these possibilities offer a new vocabulary or translation between faith and science.
+            - __A vision of how science and technology unleash human transformation, drawing us back into the questions, challenges, narrative, and ultimately, promises of faith__
+        - Draft
+            - Science and technology provoke us to consider...
+                - Simulations and creations
+                - Great Filters and apocalypses
+                - Space exploration and kingdoms of heaven
+                - Noospheres and spiritual union
+                - Life extension, cryonics, uploading and immortality, resurrection, eternal life
+                - AI, superintelligence and transcendent beings and powers
+    - [[Technological Mission]]
+        - Specs:
+            - We want to offer an ethical, hopeful vision advocating the development of particular technologies.
+            - __A vision of how science and technology can unleash unprecedented flourishing for humanity and life as a whole; and an advocacy for ethical pursuit of those possibilities, and mitigation of corresponding risks__
+            - Inspired by / engaging the [[Transhumanist Declaration]], and other similar statements
+            - Fleshed out into various research programs
+        - Draft
+            - Humanity stands to be radically changed by science and technology...we envision the possibility...
+                - Preamble
+                    - Human life stands to be radically transformed by science and technology.
+                    - These changes may either be for good or ill.
+                    - We believe that humanity's potential remains mostly unrealized. There are possible scenarios that may lead to profound flourishing, as well as scenarios that may lead to profound suffering.
+                    - We have an ethical duty to work for profoundly positive scenarios, to work to avoid profoundly negative scenarios, and to seek to mitigate the risks, dangers, and negative tradeoffs that arise under any scenario.
+                - We envision
+                    - We envision the possibility of reducing
+                        - illness, suffering, death
+                        - poverty, oppression, injustice
+                    - We envision the possibility of extending
+                        - life, health, vigor, vitality
+                        - exploration, discovery, creation
+                        - relationship, connection
+                        - creativity, knowledge, cognition
+                        - character, discipline, virtue
+                        - fulfillment, actualization, joy
+                    - We envision the possibility of uplifting
+                        - the ecosystem and the biosphere
+                        - the poor and marginalized
+                        - communities and individuals
+                - We advocate
+                    - We advocate for the ethical development of technologies which may fulfill these possibilities, for the ethical application of existing and emerging technologies, for the mitigation of technological risks, and for sustained effort to overcome current technologically-driven challenges
+                    - We seek to maximize relationships, and relational values such as trust, cooperation, compassion
+                    - We seek to maximize agency, through approaches such as personal rights and autonomy, decentralization of power, and the elevation of the disadvantaged
+                    - We seek to maximize creative capacity, through widespread access to information, generative tools, and cognitive technologies
+                    - We seek to maximize mental and physical flourishing, through access to treatments, therapies, nutrition, and prosthetics
+                - Call to Action
+                    - Research efforts
+                    - Culture of progress, optimism, and rationality
+                    - Politics of progress, rationality, and cooperation
+                    - Communities of optimism, innovation, and proactive action
+                    - Churches of hope, empowerment, and long-term vision
+                - 
+        - Research programs
+            - Gene editing to improve cellular function and repair
+            - Brain-computer interfaces to mitigate, prevent, repair cognitive decline
+            - Tools for Thought to extend human creativity, memory, and intellectual capacity
+            - 

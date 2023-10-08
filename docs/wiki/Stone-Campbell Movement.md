@@ -1,0 +1,8 @@
+- an 1800s religious reform movement, focusing on theological minimalism, biblical interpretation, and unity among Christians
+- influenced by the empiricism and eschatology of [[Francis Bacon]]
+    - [[Bacon College]]
+    - "The Restoration Movement" may have been named for [[The Great Instauration]]
+- [[Postmillennialism]]
+    - [[Millennial Harbinger]]
+- [[Alexander Campbell]]
+- [[Micah Redding]]

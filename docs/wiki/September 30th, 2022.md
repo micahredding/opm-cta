@@ -1,0 +1,9 @@
+- [[Christian Transhumanist Mission]]
+    - [[Theological Mission]]
+        - We are made to grow into the image and likeness of God
+            - We are made to be compassionate creators
+                - We are made to be creators. Science and technology are an expression of that.
+                - We are made to be compassionate/ethical.
+            - We are called to participate in (the life and work of) Christ
+            - We are called to proclaim the renewal of all things
+                - [[Renewal Eschatology]]

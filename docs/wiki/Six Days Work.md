@@ -1,0 +1,1 @@
+- [[Francis Bacon]]'s name for the [[Scientific Method]], inspired by the creation account of [[Genesis 1]]

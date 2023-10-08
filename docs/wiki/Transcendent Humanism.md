@@ -1,0 +1,16 @@
+- Recognizing the unlimited possibilities inherent in humanity — including the possibilities of transforming beyond all current recognition
+- As a form of Theology
+    - [[Paul Tillich]]'s term for early Christianity
+    - [[Saint Irenaeus]] believed Christ was the New Humanity
+    - Humanism based on Christ's own Transcendent Humanity
+    - Humanity defined by Christ's Ascension to Rule Over All Things
+    - "We do not yet know what we shall be..."
+    - [[Humans to Rule Over All Things]]
+- As a form of [[Transhumanism]]
+    - [[Julian Huxley]]
+    - [[David Deutsch]]
+- Incredible Human Potenial
+    - [[Humans as Universal Turing Machines]]
+    - [[Humans as Universal Explainers]]
+    - [[Flow State]]
+- 

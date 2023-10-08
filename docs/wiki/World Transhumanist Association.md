@@ -1,0 +1,3 @@
+- [[David Pearce]]
+- [[Nick Bostrom]]
+- since renamed to [[Humanity+]]

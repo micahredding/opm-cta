@@ -1,0 +1,2 @@
+- [[Harrison & Wolyniak; The History of Transhumanism]]
+    - Apparently got the word "transhumanism" from [[Dante's Divine Comedy]], and used it in connection with a New Testament idea, to speak to the future of evolution

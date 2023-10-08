@@ -1,0 +1,4 @@
+- The historic Christian tradition doesn't divide the world into "supernatural" vs "natural"
+- Christianity recognizes God as "the most natural being there is"
+- The Bible describes miracles as being caused by natural phenomenon
+    - The parting of the Red Sea is by a wind

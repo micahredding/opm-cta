@@ -1,0 +1,2 @@
+- used science to prove the resurrection of the body
+- sister of [[Gregory of Nyssa]]

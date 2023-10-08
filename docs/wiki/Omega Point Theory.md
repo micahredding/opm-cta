@@ -1,0 +1,9 @@
+- a cosmological theory from [[Frank Tipler]]
+- first described in [[The Physics of Immortality (1994)]]
+- named for the [[Omega Point]] of [[Pierre Teilhard de Chardin]]
+- postulates that 
+    - Life continues forever
+    - Life closes the universe
+    - Life attains complete control of all matter and energy
+    - the power available to Life increases without end
+    - full information about the history of the universe becomes available, allowing for the Resurrection of the Dead

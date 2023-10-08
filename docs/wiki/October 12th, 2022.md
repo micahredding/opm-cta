@@ -1,0 +1,44 @@
+- [[Faith-Renewing Mission]]
+- In a world of rising skepticism and disenchantment---**We believe that engaging the future can help faith come alive**. __We have a mission to show how engagement with the future can renew our faith.__
+- The definition of faith is “the certainty we feel about what we cannot see or verify”
+    - We can verify many things we can’t see, including, since the 2022 Nobel prize for physics, that local realism is not a feature of the Creation.
+    - The age of the Earth is ‘seen’ (Heb 11:1) in fossil records, in light from distant galaxies, in plate tectonics and traceable DNA history.
+        - Plate tectonics is verified by GPS measurements. The Geometric Datum of Australia was renewed in 2020 because Australia moved 1.8m (6 feet) between 1994 and 2020. [GDA2020](https://www.ga.gov.au/scientific-topics/positioning-navigation/geodesy/datums-projections/gda2020)
+-  Science leads to God: End the false dichotomy
+    - All truth is God's truth, whether established through (God-given) human means or from revelation
+    - The types of truth are set out in the New Matrix Epistemology, but God intends us to use all types of truth in the appropriate areas
+    - Wisdom is ‘impartial and sincere’ or ‘open to reason’. (James 3:17)
+    - Scripture points to truth outside of itself
+- Science leads us to understand Creation: 
+    - The universe is a creation. The universe has features of randomness, non-local-realism, non-determinism, emergence, and causation.
+        - Stochastic randomness is visible in behaviour of gases and radioactivity. Other random processes such as mammalian conception are core to emergence.
+        - Quantum collapse is not fully understood but defeats local realism and determinism.
+            - Determinism is a cultural artefact of Newton and Laplace.
+            - The interaction of forms and archetypes with matter defeats physicalist determinism.
+        - Emergence means a phenomenon cannot be computed from the behaviour of its constituent elements (weak emergence, defeating Laplace's demon) or is entirely different to its constituent elements (strong emergence: consciousness and free will)
+        - "Causation is a feature of the Simulation" is a restatement of the Cosmological Argument for Simulationists.
+    - God created the universe such that elements, life, intentionality, consciousness and free will would emerge.
+    - Humans co-evolved with behavioural archetypes, and made choices which influence what we are today. The conception of archetypes drives social behaviour and is at least partly genetic.
+    - Jesus is at least the highest limit-state moral archetype to emerge from the creation.
+- Science and Faith together give us the best understand of Humans as the peak of known evolutionary emergence.
+    - Humans are universal problem solvers and truth seekers.
+    - Humans create knowledge.
+    - Humans create our own biosphere niche (Niche Constructor Theory).
+    - Humans use technology to extend and improve our lives and our capabilities
+    - Humans use cultural behaviours to extend and improve our lives and our capabilities
+    - Humans' default state without technology and culture is to live short brutish lives in abject poverty, pain and warfare.
+    - Our Christian high-level abstraction of humans as "Fallen Image Bearers" is more accurate than other high-level abstractions such as John Locke's "Blank Slate" and misanthropic views of humans as evil.
+    - Humans have been charged by God with responsiblity over our part of creation. This Creation Mandate should be used intentionally to protect and enhance the biosphere. Only humans can use technology to deflect asteroids, end pandemics, and undo environmental damage.
+    - Being created in the image of God means we are to be co-creators of the universe's future.
+- The Bible points to truth, both inside itself and outside itself.
+    - Mature Christians are expected to learn and grow not only from Scripture but also from other forms of truth
+    - Scripture points to fallibilism, not only justificationism.
+    - Few systematic theological positions survive detailed critiquing. The few that do must survive differences in human language and culture, and . 
+    - Scripture points to three main ethical systems: Deontological (duty/rule based) Consequentialist (Utilitarian) and Virtue-based. All three must work together to solve ethical dilemmas.
+- The Gospel is about Transformation, not solely about a relationship with God.
+    - Willard compares "Gospel of the Kingdom" with "Gospels of Sin Management". The Good News is that the Kingdom of God is at hand.
+    - Versions of the gospel that minimise the demands of a spiritually transformed life 
+- [[Transhumanism]] entails cutting edge science and technology. Together, this helps Christians renew the faith by:
+    - Challenging Christians to articulate the future of humans as we draw ever closer to our technology.
+    - Improving our understanding of the nature of humans as Fallen Image Bearers, using insights from science, that reveal the imperative for human spiritual transformation.
+    - Empowering the spread of the gospel using technology, including by adopting brain neural interfaces to present a redeemed mind to non-Christians.

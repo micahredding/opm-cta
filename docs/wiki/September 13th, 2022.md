@@ -1,0 +1,8 @@
+- [[Christian Transhumanist Mission]]
+    - [[Theological Mission]]
+        - We are made to become like God -- compassionate co-creators
+            - Created creators --> [[Creation Mandate]]
+            - Scientific and technological creators --> 
+            - Compassionate and reconciling creators --> The imitation of Christ
+        - We are called to participate in the work of God
+        - We are called to proclaim the renewal of the world

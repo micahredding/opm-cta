@@ -1,0 +1,7 @@
+- experiment here!
+- Surround terms with square brackets [[like this]], to link to other pages, or create new ones.
+- adas
+    - adadadsdadadwqrqf
+- 
+- TRANSCEND by Ray Kurzweil
+- 

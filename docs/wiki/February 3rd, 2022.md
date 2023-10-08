@@ -1,0 +1,41 @@
+- [[Christian Transhumanist Mission]] 0.0
+    - Initial concept and formation
+        - **The Christian Transhumanist Assumptions**
+            - The existence of the CTA is premised on a number of assumptions. [Jonathan](https://twitter.com/el_canyonero/status/1482225321374281730?s=20&t=nJdcMwBZB5tlogpWp_Ktbg) and Elias have both recently emphasized the third.
+                - **Science and technology are part of the mission of God**. This suggests that we should be actively engaged in shaping emerging science and technology, that there should be an ethics brought to bear, and that we should help people understand where science and technology 'fit' in the scheme of things.
+                - **Science and technology can help revitalize faith**. This suggests that we should be helping people discover how this revitalization can occur—by explaining the significance of emerging science and technology for faith, and by explaining the necessary philosophical frameworks or tools people need to find their faith renewed.
+                - **We embrace human transformation**. It's this last assumption that brings the other two together. Because we consider human transformation central to the mission of God, we see how science and technology both affirm the prospect of transformation, and how we must consciously employ science and technology as part of our ongoing transformation. This offers the possibility of revitalizing faith, and calls us to engage the scientific and technological project.
+                - **Additional points:**
+                    - **Christ is central.** Our vision of human transformation is informed by Christ.
+                    - Increased emphasis on scripture?
+                    - Reconciliation between faith and science, and in communicating between groups and individuals
+            - Taken together, these suggest the three parts of our agenda:
+        - **The Christian Transhumanist Agenda** (draft)
+            - **[[Theological Mission]]**, to articulate the role of science and technology in the mission of God. 
+                - Through the lens of human transformation, this calls us to tell the Christian story as a story of human transformation, where science and technology are a key aspect of who we are, and who we are becoming.
+                - Relevant aspects of [[Christian Transhumanist Affirmation]]
+                    - **1. We believe that God’s mission involves the transformation and renewal of creation** including humanity, and that we are called by Christ to participate in that mission: working against illness, hunger, oppression, injustice, and death.
+                    - **2. We seek growth and progress along every dimension of our humanity:** spiritual, physical, emotional, mental—and at all levels: individual, community, society, world.
+                    - **3. We recognize science and technology as tangible expressions of our God-given impulse to explore and discover** and as a natural outgrowth of being created in the image of God.
+                    - 
+            - **A Faith-Revitalizing Agenda [[Faith-Renewing Mission]]**, to articulate the ways in which science and technology can renew and revitalize faith.
+                - Through the lens of human transformation, this calls us to show how the transformative power of science and technology draws us back into the questions, challenges, narrative, and ultimately, promises of faith.
+                - 
+            - **[[Technological Mission]]**, to articulate a vision of the ethical formation and development of particular technological possibilities.
+                - Through the lens of human transformation, this calls us to work out scenarios that may disrupt existing ways of life, and yet unlock greater levels of flourishing. Through the lens of Christianity, this calls us to prioritize our distinctive ethical foci: relationships, trust, cooperation, compassion, decentralization of power, and the elevation of the least of these.
+                - Relevant aspects of [[Christian Transhumanist Affirmation]]
+                    - **1. We believe that God’s mission involves the transformation and renewal of creation** including humanity, and that we are called by Christ to participate in that mission: working against illness, hunger, oppression, injustice, and death.
+                    - **2. We seek growth and progress along every dimension of our humanity:** spiritual, physical, emotional, mental—and at all levels: individual, community, society, world.
+                    - **4. We are guided by Jesus’ greatest commands** to “Love the Lord your God with all your heart, soul, mind, and strength…and love your neighbor as yourself.”
+                    - **5. We believe that the intentional use of technology, coupled with following Christ, will empower us to become more human** across the scope of what it means to be creatures in the image of God.
+                    - 
+        - **Action Plan**
+            - If the above seems coherent and reasonably complete, then our next steps are to:
+                - Articulate the above agendas.
+                - Develop an action plan for each agenda.
+                - Determine how we should allocate time and effort between them.
+                - Identify ways our members and supporters can spread and advance them.
+                - Develop resources that support our members in those efforts.
+                - Call our members and supporters to action.
+            - I think our next meeting can begin steps 1-3, although I anticipate spending a lot of further time iterating and fleshing each of these out.
+    - 

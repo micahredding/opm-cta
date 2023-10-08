@@ -1,0 +1,63 @@
+- The [[Christian Transhumanist Mission]] Project
+    - The Agenda Projects
+        - [[Theological Mission]]
+            - to articulate the role of science and technology in the mission of God
+            - to articulate the Christian story as a story of human transformation, exemplified by Christ, where science and technology are a key aspect of who we are, and who we are becoming
+            - We are made to be transformed into the likeness of Christ and of God. Christ invites us to follow him in a path of love, trust, and sacrifice—and through this glorification. The glory of God is exemplified in science and technology.
+            - Draft:
+                - Humans were made to become like God
+                    - Being like God involves wielding immense power and responsibility within the cosmos
+                        - "The Dominion Mandate", aka "The Cultural Mandate"
+                            - Genesis 1
+                            - Psalm 8
+                        - This power is unlimited, as the image of God is unlimited
+                            - Hebrews 2
+                            - Galatians 3-4
+                            - Revelation 3:21
+                    - This power includes, and may be best understood as, science and technology
+                        - Genesis 1-2 and Psalm 8 set this power within a technological context
+                        - Genesis 1-2 has God modeling the scientific process, and then discipling humans in it
+                        - Science and technology are based on the cooperative, cultivating approach that God models for us
+                            - Takes some explaining
+                            - Science as humility
+                            - Technology as cooperation
+                            - [[Francis Bacon]] is significant here
+                - Being like God is exemplified in creative, cooperative, cultivating creation within the created order. This is science and technology 
+                - Humans turned their own power and glory to evil, and against themselves
+                - Christ redeems humanity, and renews our power and promise
+                - Christ invites us to become like him, adopting his ethics and mindset, in order to be transformed into his likeness
+                - Christ exemplifies our transformation
+        - A Faith-Revitalizing Agenda [[Faith-Renewing Mission]]
+            - to articulate the ways in which science and technology can renew and revitalize faith
+            - to show how the transformative power of science and technology draws us back into the questions, challenges, narrative, and ultimately, promises of faith
+            - Draft
+                - The Simulation Argument as support for creation
+                - The Singularity & the Great Filter as support for eschatology
+                - Transhumanism as support for Christian ethics
+                    - Cryonics & the ethics of resurrection
+                - Human transformation as support for both Christian visions of the future, and for the necessity of Christian ethics
+        - [[Technological Mission]]
+            - to articulate a vision of the ethical formation and development of particular technological possibilities
+            - to work out scenarios that may disrupt existing ways of life, and yet unlock greater levels of flourishing
+            - to prioritize our distinctive ethical foci: relationships, trust, cooperation, compassion, decentralization of power, and the elevation of the least of these.
+            - Draft
+                - An ethical vision for communication technologies
+                - An ethical vision for biotechnology
+                - An ethical vision for AI
+                - An ethical vision for Cognitive Extension
+                - Healing: Life-extending technologies
+                - Clothing: Life-enhancing technologies
+                - Freeing: Life-expanding technologies
+                - Technologies that can improve communication, compassion, empathy
+                - Technologies that can improve trust
+                - Technologies that can uplift life
+                - Technologies that can uplift the poor
+                - Technologies that can feed the hungry
+                - Technologies that can clothe the naked
+                - Technologies that can heal the sick
+                - Technologies that can raise the dead
+                - Technologies that cast out demons
+    - Teams
+    - Leaders
+    - Mission Statements (the question we are trying to answer)
+    - Message Statements (a first draft of our answer)

@@ -1,0 +1,26 @@
+- A movement to use science and technology to participate in the work of God, and transform the human condition, as called for by the discipleship of Christ
+    - A conversation between the leading edges of science and technology, and the broad Christian faith
+    - An emerging theology of technology
+    - A voice for positive, relational values in building our future
+    - A call for Christians to serve—scientifically, technological, socially—on behalf of the world
+- What we affirm: [[Christian Transhumanist Affirmation]]
+- [[Concepts in Christian Transhumanism]]
+- [[Resources for Christian Transhumanists]]
+- Culture of the CTA:
+    - Ecumenical. We span all Christian traditions and denominations.
+    - Open. We invite both secular transhumanists and non-transhumanist Christians to engage in dialogue with us.
+- Statements
+    - [[Christian Transhumanist Affirmation]]
+    - [[Statement on Radical Life Extension]]
+    - proposed: [[Brain Augmentation Bill of Rights]]
+- formal organization of [[Christian Transhumanism]]
+    - [[Members]]
+    - [[Leadership of the CTA]]
+    - History of the [[Christian Transhumanist Association]]
+        - 2013-06-06 Initial membership signup form
+        - 2013-06-07 Call for Interest in a Christian Transhumanist Association
+        - 2013-11-01 Formation of CTA working group
+        - 2014-05-15 CTA legal formation
+        - 2015 Public membership drive
+        - 2016 Signing of [[Christian Transhumanist Affirmation]]
+        - https://www.christiantranshumanism.org/history

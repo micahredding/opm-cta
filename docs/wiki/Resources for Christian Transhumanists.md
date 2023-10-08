@@ -1,0 +1,42 @@
+- __Directions: Add resources to the bottom of the list, or add helpful reviews or comments underneath listed resources. (Play nice—don't make us have to shut down editing.)__
+- [[A Christian History of Transhumanism]] 
+- **Videos about Christianity & Transhumanism**
+    - [Christian Transhumanism Youtube Channel](https://www.youtube.com/c/ChristianTranshumanism?sub_confirmation=1)
+    - 
+- **Books about Christianity & Transhumanism**
+    - [Surprised by Hope: Rethinking Heaven, the Resurrection, and the Mission of the Church](https://smile.amazon.com/Surprised-Hope-Rethinking-Resurrection-Mission/dp/B078YD55KS/ref=as_li_ss_tl?ie=UTF8&qid=1520386742&sr=8-2&keywords=surprised%20by%20hope%20n.t.%20wright&linkCode=ll1&tag=micahredding-20&linkId=b3b593d4b9e22571457b51ca67609a09) — N.T. Wright
+        - Surprised by Hope is the best popular-level introduction to historic Christianity's embodied, non-escapist, [[Physical Eschatology]].
+    - [What Technology Wants](https://smile.amazon.com/gp/product/0143120174/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0143120174&amp;linkCode=as2&amp;tag=micahredding-20&amp;linkId=2QI622KNFYMLOHK3) — Kevin Kelly
+        - What Technology Wants by Kevin Kelly, introduces the concept of technology as the 7th kingdom of life, growing and evolving just as all living things do. Great book for framing a lot of transhumanist discussion in a connected and comprehensive way.
+    - [The Inevitable](http://amzn.to/2ayOetl) — Kevin Kelly
+        - The Inevitable is Kevin Kelly's most recent book, focusing on more specific ways technology will change over time.
+    - [Ending Aging](http://amzn.to/2amugPp) — Aubrey de Grey
+        - Aubrey de Grey's thought and research is the best way to engage with the discussion of radical life extension.
+    - [Engines of Creation](http://amzn.to/2ayRLYE) — Eric Drexler
+        - Engines of Creation by Eric Drexler is the seminal work on nanotechnology, and everything it is capable of. Eric has written a more recent take on the subject [here](http://amzn.to/2aOnTbb).
+    - [The Beginning of Infinity: Explanations That Transform the World](https://smile.amazon.com/gp/product/0143121359/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0143121359&amp;linkCode=as2&amp;tag=micahredding-20&amp;linkId=TVKUGA66PEJJSOMD) — David Deutsch
+        - David Deutsch, the pioneer of quantum computing, explores the systems in physics that have infinite reach—including the human mind. Not specifically transhuman, but great physics-as-philosophy, and will change your perception of what we're capable of.
+    - [The Phenomenon of Man](https://smile.amazon.com/Phenomenon-Harper-Perennial-Modern-Thought/dp/0061632651/ref=as_li_ss_tl?_encoding=UTF8&qid=1554860513&sr=1-1&linkCode=ll1&tag=micahredding-20&linkId=7fb3552e8c29965e208bc43c7424b611&language=en_US) — Teilhard de Chardin
+        - Teilhard de Chardin was the Jesuit Priest and Paleontologist who first proposed many of the concepts of transhumanism in the 1930s-1950s.
+    - [The Physics of Immortality: Modern Cosmology, God and the Resurrection of the Dead](https://smile.amazon.com/gp/product/0385467990/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0385467990&amp;linkCode=as2&amp;tag=micahredding-20&amp;linkId=I63S3D4CNVQOMFUL) — Frank J. Tipler
+        - This 1994 book proposed a scientific theory of religion and the future of the universe, and introduced many to the possibilities of Christian Transhumanism.
+    - [The Singularity Is Near: When Humans Transcend Biology](https://smile.amazon.com/gp/product/0143037889/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0143037889&amp;linkCode=as2&amp;tag=micahredding-20&amp;linkId=ISKWUDWO22RZHJNI) — Ray Kurzweil
+        - Ray Kurzweil argues that we're about to experience a "Singularity", an intelligence explosion, where the intelligence embedded in our technology becomes greater than the intelligence embedded in human brains. This book explores what kinds of ramifications that might have for our near future. Ray Kurzweil is a long-time inventor, and has recently been brought onboard at Google to work on constructing an AI.
+    - [Zero to One: Notes on Startups, or How to Build the Future](https://smile.amazon.com/gp/product/0804139296/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0804139296&amp;linkCode=as2&amp;tag=micahredding-20&amp;linkId=3G2NM4VIY3ZJQNKG) — Peter Thiel
+        - What is the difference between vertical progress & horizontal progress? And what does this difference have to do with our future?
+    - [From the Garden to the City](https://smile.amazon.com/Garden-City-John-Dyer-ebook/dp/B005CQ2ZE6/ref=as_li_ss_tl?crid=8KUFP84177IY&keywords=from+the+garden+to+the+city&qid=1556589094&s=digital-text&sprefix=from+the+garden+t,digital-text,135&sr=1-1&linkCode=ll1&tag=micahredding-20&linkId=2e626f006d62989d76ba2accfa8097f4&language=en_US) — John Dyer
+        - Where does technology belong in the biblical story of redemption?
+    - [Human Purpose & Transhuman Potential](http://amzn.to/29njFUB) — Ted Chu
+        - Human Purpose & Transhuman Potential by Ted Chu, examines the philosophy of human purpose, and shows how humanity coherently understands itself as the self-transcendent species.
+    - [Transhumanism and Transcendence](https://smile.amazon.com/gp/product/1589017803/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1589017803&amp;linkCode=as2&amp;tag=httpmicahreco-20&amp;linkId=UEP4W36PJWA7QBXH) — Ron Cole-Turner
+        - 
+    - [Cyborg Selves: A Theological Anthropology of the Posthuman](https://smile.amazon.com/gp/product/1409421414/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1409421414&amp;linkCode=as2&amp;tag=httpmicahreco-20&amp;linkId=H3J53WSGRAQYMUI7) — J. Jeanine Thweatt
+        - 
+    - [All Things New: Heaven, Earth, and the Restoration of Everything You Love](https://smile.amazon.com/All-Things-New-Restoration-Everything/dp/B071P7T7SK/ref=as_li_ss_tl?ie=UTF8&qid=1520387585&sr=8-1&keywords=john+eldredge&linkCode=ll1&tag=micahredding-20&linkId=f4d1df8d6ab79ccec3b7a8fed611495d) — John Eldredge
+        - 
+    - [Theology and Science in the Thought of Francis Bacon](https://smile.amazon.com/Theology-Science-Thought-Francis-Bacon-ebook-dp-B0794FR5SX/dp/B0794FR5SX/ref=as_li_ss_tl?_encoding=UTF8&me=&qid=1554860330&linkCode=ll1&tag=micahredding-20&linkId=57ec241a2258b726f66c81325d56b659&language=en_US) — Steven Matthews
+        - 
+    - [The Transhumanist Reader](http://amzn.to/2aJIV9X) —
+        - For completeness. A newer compilation of essays.
+- New stuff:
+    - 

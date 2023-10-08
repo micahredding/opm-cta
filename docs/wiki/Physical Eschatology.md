@@ -1,0 +1,12 @@
+- The Future in Christian terms
+    - Heaven comes to Earth
+    - The Cosmos is Renewed & Transformed
+- Based on 
+    - The work of [[NT Wright]]
+    - The work of [[Richard Middleton]]
+    - [[The Lord's Prayer]]
+    - [[Romans 8]]
+        - For the creation waits in eager expectation for the children of God to be revealed. ...in hope that the creation itself will be liberated from its bondage to decay and brought into the freedom and glory of the children of God. (Romans 8:19-21)
+    - [[Revelation 22]]
+    - [[1 Corinthians 15]]
+- see [[Omega Point]] and [[Omega Point Theory]]

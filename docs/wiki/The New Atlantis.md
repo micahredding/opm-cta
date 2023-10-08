@@ -1,0 +1,3 @@
+- [[Francis Bacon]]'s work of science fiction
+- Describes [[Radical Longevity]], bioengineering, virtual reality, as created by a culture following the [[Six Days Work]]
+- Science as Religious Work

@@ -1,0 +1,2 @@
+- One of the oldest and largest branches of [[Christianity]]
+- split with [[Eastern Orthodoxy]] in [[The Great Schism]] of 1054.
