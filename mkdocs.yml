@@ -1,7 +1,8 @@
-site_name: Christian Transhumanism (wiki)
+site_name: Christian Transhumanist Association
 
 theme:
     name: 'material'
+    logo: material/plus-circle
     palette:
 
     # Light mode
