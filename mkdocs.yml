@@ -7,8 +7,8 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: blue
-      accent: indigo
+      primary: black
+      accent: blue
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
